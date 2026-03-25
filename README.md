@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 B.Tech CSE (2024–2028) <br>
-💻 Passionate about Software Development and Problem Solving <br>
+💻 Passionate about Data Analytics, Software Development and Problem Solving <br>
 🚀 Currently building database-driven applications
 </p>
 
