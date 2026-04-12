@@ -49,7 +49,7 @@
 A robust database-driven system for managing **hospital equipment and medicine inventory** with optimized query performance.
 
 ### ✈ SAFAR
-Travel group management, destination planning, and real-time group chat Astra Safety: Tourist registration, live safety tracking, geo-fencing, anomaly detection, and emergency alerts The app includes optional IoT integration for device tracking and supports SMS notifications via Twilio.
+Travel group management, destination planning, and real-time group chat Garuda Safety: Tourist registration, live safety tracking, geo-fencing, anomaly detection, and emergency alerts The app includes optional IoT integration for device tracking and supports SMS notifications via Twilio.
 
 ### 🌱 KHET SETU
 A conceptual **gamified platform for Smart India Hackathon 2025** aimed at educating and incentivizing sustainable farming practices.
