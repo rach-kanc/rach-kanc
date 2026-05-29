@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing a degree in **Computer Science and Engineering**
-- 🌱 Currently mastering **Java Backend Development** and **Supabase (PostgreSQL)**
+- 🌱 Currently mastering **Data Management** & **Data Analytics**
 - 💡 Interested in **Data Structures, Distributed Databases, and AI**
 - 🎯 Seeking **software development internship opportunities**
 - ⚡ Fun fact: I enjoy architecting complex systems from scratch and optimizing queries.
