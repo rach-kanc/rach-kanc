@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 B.Tech CSE (2024–2028) at <b>Shri Ram Murti College of Engineering & Technology</b><br>
-💻 Passionate about Data Analytics, Software Development, and System Design <br>
+💻 Passionate about Data Analytics, Software Development, and Database Design <br>
 🚀 Currently building scalable, database-driven applications
 </p>
 
@@ -14,7 +14,7 @@
 - 🎓 Pursuing a degree in **Computer Science and Engineering**
 - 🌱 Currently mastering **Data Management** & **Data Analytics**
 - 💡 Interested in **Data Structures, Distributed Databases, and AI**
-- 🎯 Seeking **software development internship opportunities**
+- 🎯 Seeking **software development & data based internship opportunities**
 - ⚡ Fun fact: I enjoy architecting complex systems from scratch and optimizing queries.
 
 ---
@@ -22,10 +22,10 @@
 # 🛠 Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄 Databases & Backend
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
