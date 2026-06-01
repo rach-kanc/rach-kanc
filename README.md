@@ -1,75 +1,201 @@
 <h1 align="center">Hi 👋, I'm Rachit Kanchan</h1>
-<h3 align="center">Computer Science Engineering Student | Backend & Database Enthusiast</h3>
+
+<h3 align="center">
+Backend Developer • Database Engineer • Google Student Ambassador • IEEE Volunteer • Open Source Contributor
+</h3>
 
 <p align="center">
-🎓 B.Tech CSE (2024–2028) at <b>Shri Ram Murti College of Engineering & Technology</b><br>
-💻 Passionate about Data Analytics, Software Development, and Database Design <br>
-🚀 Currently building scalable, database-driven applications
+🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
+🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
+💻 Passionate about Backend Development, Databases, System Design & Open Source<br>
+🚀 Building scalable solutions while empowering communities through technology
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/IEEE-Volunteer-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSOC-Open_Source_Contributor-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Pursuing a degree in **Computer Science and Engineering**
-- 🌱 Currently mastering **Data Management** & **Data Analytics**
-- 💡 Interested in **Data Structures, Distributed Databases, and AI**
-- 🎯 Seeking **software development & data based internship opportunities**
-- ⚡ Fun fact: I enjoy architecting complex systems from scratch and optimizing queries.
+* 🎓 Computer Science Engineering Student with a strong foundation in Software Development and Database Systems.
+* 💻 Focused on becoming a Backend Engineer specializing in Python, APIs, Databases, and System Design.
+* 🗄 Experienced in relational database design, query optimization, and database-driven applications.
+* 🌱 Currently exploring Backend Architecture, Cloud Technologies, and Distributed Systems.
+* 🤝 Active contributor to technical communities through IEEE, Google Student Ambassador initiatives, and Open Source programs.
+* 🎯 Seeking Software Engineering, Backend Development, and Full-Stack Development internship opportunities.
+* ⚡ Passionate about building impactful products that solve real-world problems.
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Languages
 
-### 🗄 Databases & Backend
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
-### 📊 Data Analysis
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🌐 Web Development
 
-### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+## 🗄 Backend & Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+## ⚙ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ### 🏥 MediTrack – Hospital Inventory Management System
-A robust database-driven system for managing **hospital equipment and medicine inventory** with optimized query performance.
 
-### ✈ SAFAR
-Travel group management, destination planning, and real-time group chat Garuda Safety: Tourist registration, live safety tracking, geo-fencing, anomaly detection, and emergency alerts The app includes optional IoT integration for device tracking and supports SMS notifications via Twilio.
+A database-driven inventory management solution for hospitals featuring:
+
+* Inventory tracking
+* Equipment management
+* Medicine management
+* Optimized database operations
+* MySQL and Python integration
+
+---
+
+### ✈️ SAFAR
+
+A smart travel and tourist safety platform featuring:
+
+* Group travel management
+* Destination planning
+* Real-time communication
+* Tourist safety monitoring
+* Geofencing and emergency alerts
+* IoT-based tracking integration
+
+---
 
 ### 🌱 KHET SETU
-A conceptual **gamified platform for Smart India Hackathon 2025** aimed at educating and incentivizing sustainable farming practices.
+
+A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
+
+* Smart farming practices
+* Agricultural awareness
+* Gamified learning
+* Farmer engagement
+
+---
+
+### 🌐 IEEE Student Branch Website
+
+Designed and developed a modern responsive website for the IEEE Student Branch SRMSCET featuring:
+
+* Interactive event showcase
+* Responsive UI/UX
+* Team management interface
+* Modern frontend development practices
+
+---
+
+# 🏆 Leadership, Communities & Open Source
+
+## 🌟 Google Student Ambassador
+
+* Representing student interests within technology communities.
+* Promoting innovation, learning, and peer collaboration.
+* Encouraging students to explore opportunities in technology and software development.
+
+## ⚡ IEEE Student Branch SRMSCET
+
+### Program Committee Member
+
+Contributed to planning and executing technical events including:
+
+* Prompt Engineering Competition
+* UI Bug Bash
+* Blind Coding Challenge
+* Technical Workshops
+* Community Engagement Activities
+
+## 🌐 Social Summer of Code (SSOC)
+
+### Open Source Contributor
+
+* Contributing to open-source projects.
+* Collaborated with developers from diverse backgrounds.
+* Worked on issue resolution, feature enhancements, and project improvement.
+
+---
+
+# 📚 Areas of Interest
+
+* Backend Development
+* Database Engineering
+* API Development
+* System Design
+* Distributed Systems
+* Open Source
+* Artificial Intelligence
+* Cloud Computing
 
 ---
 
 # 📜 Certifications
 
-- **Database Management System** – NPTEL (IIT Kharagpur)
-- **30 Days MasterClass in Data Analytics** – NoviTech R&D Pvt. Ltd.
+* 🏅 Database Management System — NPTEL (IIT Kharagpur)
+* 🏅 Data Analytics MasterClass — NoviTech R&D Pvt. Ltd.
+
+---
+
+# 📊 GitHub Stats
+
+```text
+📌 Backend Development
+📌 Database Engineering
+📌 Open Source Contributions
+📌 Community Leadership
+📌 Continuous Learning
+```
+
+---
 
 # 📫 Connect With Me
 
 <p align="left">
-<a href="https://portfolio-beta-nine-4um2ztuguj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="mailto:rachkanc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rachitkanchan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/rach-kanc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://portfolio-beta-nine-4um2ztuguj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:rachkanc@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rachitkanchan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rach-kanc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-⭐ Always open to learning new technologies and collaborating on exciting projects!
+## 💡 Motto
+
+> Building scalable technology, contributing to open source, and creating opportunities for others through innovation, leadership, and collaboration.
+
+⭐ Always open to learning, collaborating, and building impactful technology.
