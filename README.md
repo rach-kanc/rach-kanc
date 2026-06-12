@@ -12,6 +12,7 @@ Backend Developer • Database Engineer • Google Student Ambassador • IEEE V
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/CSE-Undergrad-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/IEEE-Volunteer-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSOC-Open_Source_Contributor-orange?style=for-the-badge"/>
@@ -136,7 +137,7 @@ Designed and developed a modern responsive website for the IEEE Student Branch S
 * Promoting innovation, learning, and peer collaboration.
 * Encouraging students to explore opportunities in technology and software development.
 
-## ⚡ IEEE Student Branch SRMSCET
+## ⚡ IEEE Student Branch, SRMSCET
 
 ### Program Committee Member
 
@@ -147,6 +148,12 @@ Contributed to planning and executing technical events including:
 * Blind Coding Challenge
 * Technical Workshops
 * Community Engagement Activities
+
+## 🚀 Equinox Club, CSE Dept., SRMS CET
+
+### Coordinator
+
+* Coordinating events, workshops, and activities for the college technical club.
 
 ## 🌐 Social Summer of Code (SSOC)
 
@@ -175,6 +182,9 @@ Contributed to planning and executing technical events including:
 
 * 🏅 Database Management System — NPTEL (IIT Kharagpur)
 * 🏅 Data Analytics MasterClass — NoviTech R&D Pvt. Ltd.
+* 🏅 Build with AI Agent Builder Camp — GeeksforGeeks
+* 🏅 HTML & CSS Bootcamp — Let's Upgrade
+* 🏅 AI Bootcamp — Intellipaat
 
 ---
 
