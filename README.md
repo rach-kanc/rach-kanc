@@ -28,7 +28,7 @@ Backend Developer • Database Engineer • Google Student Ambassador • IEEE V
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:rachkanc@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rachkanc@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
