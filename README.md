@@ -23,6 +23,25 @@ Backend Developer • Database Engineer • Google Student Ambassador • IEEE V
 
 # 🚀 About Me
 
+<p align="center">
+<a href="https://portfolio-beta-nine-4um2ztuguj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:rachkanc@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rachitkanchan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rach-kanc">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+
 * 🎓 Computer Science Engineering Student with a strong foundation in Software Development and Database Systems.
 * 💻 Focused on becoming a Backend Engineer specializing in Python, APIs, Databases, and System Design.
 * 🗄 Experienced in relational database design, query optimization, and database-driven applications.
@@ -200,27 +219,6 @@ Contributed to planning and executing technical events including:
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-<a href="https://portfolio-beta-nine-4um2ztuguj.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:rachkanc@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rachitkanchan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rach-kanc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
 
 ## 💡 Motto
 
