@@ -79,6 +79,7 @@ Backend Developer • Database Engineer • Google Student Ambassador • IEEE V
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
 ## 🛠 Development Tools
 
@@ -90,6 +91,12 @@ Backend Developer • Database Engineer • Google Student Ambassador • IEEE V
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+## 🧠 Core Concepts
+
+![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF7F50?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-2E8B57?style=for-the-badge)
 
 ## 📚 Currently Learning
 
