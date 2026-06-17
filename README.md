@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-Google Student Ambassador • IEEE Volunteer
+CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributor
 </h3>
 
 <p align="center">
