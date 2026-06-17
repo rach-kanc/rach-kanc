@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rachit Kanchan</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Rachit%20Kanchan&fontSize=80&fontAlignY=35&desc=Backend%20Developer%20%7C%20Database%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=22&descAlignY=65&animation=fadeIn" alt="Rachit Kanchan Banner" />
+</div>
 
 <h3 align="center">
-Backend Developer • Database Engineer • Google Student Ambassador • IEEE Volunteer • Open Source Contributor
+Google Student Ambassador • IEEE Volunteer
 </h3>
 
 <p align="center">
@@ -232,3 +234,7 @@ Contributed to planning and executing technical events including:
 > Building scalable technology, contributing to open source, and creating opportunities for others through innovation, leadership, and collaboration.
 
 ⭐ Always open to learning, collaborating, and building impactful technology.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&animation=fadeIn" alt="Footer Banner" />
+</div>
