@@ -88,6 +88,16 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 
 ---
 
+# 🌟 Major Online Contribution Repos
+
+| Project | GitHub Repository |
+| :--- | :--- |
+| **Destinix-AI-Travel** | [MistryVishwa/Destinix-AI-Travel](https://github.com/MistryVishwa/Destinix-AI-Travel) |
+| **Project-Toolsuite** | [Winter262005/Project-Toolsuite](https://github.com/Winter262005/Project-Toolsuite) |
+| **One-File-Tools** | [praveenscience/One-File-Tools](https://github.com/praveenscience/One-File-Tools) |
+
+---
+
 # 🏆 Leadership, Communities & Open Source
 
 | Role | Organization / Community |
