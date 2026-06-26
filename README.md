@@ -110,50 +110,9 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 
 # 🚀 Featured Projects
 
-### 🏥 MediTrack – Hospital Inventory Management System
-
-A database-driven inventory management solution for hospitals featuring:
-
-* Inventory tracking
-* Equipment management
-* Medicine management
-* Optimized database operations
-* MySQL and Python integration
-
----
-
-### ✈️ SAFAR
-
-A smart travel and tourist safety platform featuring:
-
-* Group travel management
-* Destination planning
-* Real-time communication
-* Tourist safety monitoring
-* Geofencing and emergency alerts
-* IoT-based tracking integration
-
----
-
-### 🌱 KHET SETU
-
-A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
-
-* Smart farming practices
-* Agricultural awareness
-* Gamified learning
-* Farmer engagement
-
----
-
-### 🌐 IEEE Student Branch Website
-
-Designed and developed a modern responsive website for the IEEE Student Branch SRMSCET featuring:
-
-* Interactive event showcase
-* Responsive UI/UX
-* Team management interface
-* Modern frontend development practices
+| 🏥 MediTrack | ✈️ SAFAR | 🌱 KHET SETU | 🌐 IEEE Website |
+| :---: | :---: | :---: | :---: |
+| Hospital Inventory Management System<br><br>![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat-square) ![Python](https://img.shields.io/badge/-Python-222222?style=flat-square)<br><br>Inventory tracking • Optimized DB ops<br><br>[![View](https://img.shields.io/badge/View-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/rach-kanc/MediTrack) | Smart Travel & Tourist Safety Platform<br><br>![Python](https://img.shields.io/badge/-Python-222222?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat-square) ![JS](https://img.shields.io/badge/-JS-222222?style=flat-square)<br><br>Group travel • Real-time alerts<br><br>[![View](https://img.shields.io/badge/View-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/Rudra-clrscr/SAFAR-1) | Sustainability-Focused Smart Farming<br><br>![HTML](https://img.shields.io/badge/-HTML-222222?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat-square) ![JS](https://img.shields.io/badge/-JS-222222?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-222222?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-222222?style=flat-square)<br><br>Agri-awareness • Gamified learning<br><br>[![View](https://img.shields.io/badge/View-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/rach-kanc/Khet-Setu) | Responsive Student Branch Website<br><br>![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat-square) ![JS](https://img.shields.io/badge/-JS-222222?style=flat-square)<br><br>Event showcase • Team interface<br><br>[![View](https://img.shields.io/badge/View-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://dev-saxena11.github.io/SRMSCET_SB/) |
 
 ---
 
