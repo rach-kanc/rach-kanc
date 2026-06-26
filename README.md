@@ -56,55 +56,27 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+| Category | Technologies |
+| :--- | :--- |
+| **💻 Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **🌐 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **⚙ Backend Development** | ![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **🗄 Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **🛠 Development Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **🤖 AI & Productivity** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **🧠 Core Concepts** | ![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge) ![DSA](https://img.shields.io/badge/DSA-FF7F50?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-2E8B57?style=for-the-badge) |
+| **📚 Currently Learning** | ![System Design](https://img.shields.io/badge/System_Design-Learning-blue?style=for-the-badge) ![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-Learning-success?style=for-the-badge) ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-orange?style=for-the-badge) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+---
+# 📊 GitHub Stats
 
-## 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-## ⚙ Backend Development
-
-![Python](https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-## 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-## 🛠 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-## 🤖 AI & Productivity
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge\&logo=openai\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-
-## 🧠 Core Concepts
-
-![OOP](https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-FF7F50?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-2E8B57?style=for-the-badge)
-
-## 📚 Currently Learning
-
-![System Design](https://img.shields.io/badge/System_Design-Learning-blue?style=for-the-badge)
-![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-Learning-success?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-orange?style=for-the-badge)
+<div style="position: relative; width: 100%;">
+  <p align="center">
+    <a href="https://github.com/rach-kanc">
+      <img src="https://yourinsights.vercel.app/api/insight?username=rach-kanc&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Rachit's GitHub Insights" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -118,37 +90,12 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 
 # 🏆 Leadership, Communities & Open Source
 
-## 🌟 Google Student Ambassador
-
-* Representing student interests within technology communities.
-* Promoting innovation, learning, and peer collaboration.
-* Encouraging students to explore opportunities in technology and software development.
-
-## ⚡ IEEE Student Branch, SRMSCET
-
-### Program Committee Member
-
-Contributed to planning and executing technical events including:
-
-* Prompt Engineering Competition
-* UI Bug Bash
-* Blind Coding Challenge
-* Technical Workshops
-* Community Engagement Activities
-
-## 🚀 Equinox Club, CSE Dept., SRMS CET
-
-### Coordinator
-
-* Coordinating events, workshops, and activities for the college technical club.
-
-## 🌐 Social Summer of Code (SSOC)
-
-### Open Source Contributor
-
-* Contributing to open-source projects.
-* Collaborated with developers from diverse backgrounds.
-* Worked on issue resolution, feature enhancements, and project improvement.
+| Role | Organization / Community |
+| :--- | :--- |
+| **Student Ambassador** | Google |
+| **Program Committee Member** | IEEE Student Branch, SRMSCET |
+| **Coordinator** | Equinox Club, CSE Dept., SRMS CET |
+| **Open Source Contributor** | Social Summer of Code 2026 (SSOC) |
 
 ---
 
@@ -167,23 +114,14 @@ Contributed to planning and executing technical events including:
 
 # 📜 Certifications
 
-* 🏅 Database Management System — NPTEL (IIT Kharagpur)
-* 🏅 Data Analytics MasterClass — NoviTech R&D Pvt. Ltd.
-* 🏅 Build with AI Agent Builder Camp — GeeksforGeeks
-* 🏅 HTML & CSS Bootcamp — Let's Upgrade
-* 🏅 AI Bootcamp — Intellipaat
+| Certificate | Organization |
+| :--- | :--- |
+| 🏅 Database Management System | NPTEL (IIT Kharagpur) |
+| 🏅 Data Analytics MasterClass | NoviTech R&D Pvt. Ltd. |
+| 🏅 Build with AI Agent Builder Camp | GeeksforGeeks |
+| 🏅 HTML & CSS Bootcamp | Let's Upgrade |
+| 🏅 AI Bootcamp | Intellipaat |
 
----
-
-# 📊 GitHub Stats
-
-<div style="position: relative; width: 100%;">
-  <p align="center">
-    <a href="https://github.com/rach-kanc">
-      <img src="https://yourinsights.vercel.app/api/insight?username=rach-kanc&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Rachit's GitHub Insights" />
-    </a>
-  </p>
-</div>
 
 ---
 
