@@ -44,13 +44,13 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 </p>
 
 
-* 🎓 Computer Science Engineering Student with a strong foundation in Software Development and Database Systems.
-* 💻 Focused on becoming a Backend Engineer specializing in Python, APIs, Databases, and System Design.
-* 🗄 Experienced in relational database design, query optimization, and database-driven applications.
-* 🌱 Currently exploring Backend Architecture, Cloud Technologies, and Distributed Systems.
-* 🤝 Active contributor to technical communities through IEEE, Google Student Ambassador initiatives, and Open Source programs.
-* 🎯 Seeking Software Engineering, Backend Development, and Full-Stack Development internship opportunities.
-* ⚡ Passionate about building impactful products that solve real-world problems.
+* 🎓 CSE'28 Student
+* 💻 Backend Development (Python, APIs, Databases)
+*  🗄 Database Design & Query Optimization
+* 🌱 Learning Cloud, System Design & Distributed Systems
+* 🤝 IEEE Member • Google Student Ambassador • Open Source Contributor
+* 🎯 Seeking Software Engineering & Backend Internship Opportunities
+* ⚡ Building Scalable Solutions for Real-World Problems
 
 ---
 
