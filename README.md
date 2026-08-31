@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributor
+CSE'28 Student • Google Student Ambassador • IEEEXplore Ambassador • SSoC Contributor
 </h3>
 
 <p align="center">
@@ -103,6 +103,7 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 | Role | Organization / Community |
 | :--- | :--- |
 | **Student Ambassador** | Google |
+| **Student Ambassador** | IEEEXplore |
 | **Program Committee Member** | IEEE Student Branch, SRMSCET |
 | **Coordinator** | Equinox Club, CSE Dept., SRMS CET |
 | **Open Source Contributor** | Social Summer of Code 2026 (SSOC) |
