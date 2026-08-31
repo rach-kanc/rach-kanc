@@ -26,7 +26,7 @@ CSE'28 Student • Google Student Ambassador • IEEE Member • SSoC Contributo
 # 🚀 About Me
 
 <p align="center">
-<a href="https://portfolio-beta-nine-4um2ztuguj.vercel.app/">
+<a href="https://portfolio-rachit-kanchan.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
